@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: 徐叶琛
-  tagline: NLP, 自媒体, 驴友
+  name: Yechen Xu（徐叶琛）
+  tagline: Master of CS Student in ZJU
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar

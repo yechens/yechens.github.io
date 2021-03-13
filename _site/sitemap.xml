@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        <url>
+            <loc></loc>
+	    <lastmod>2021-03-13T17:39:55+08:00</lastmod>
+            <priority>1.00</priority>
+        </url><url>
+                <loc>/bert/%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99/2020/09/08/Soft-Masked-BERT-%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E4%B8%8EBERT%E7%9A%84%E6%9C%80%E6%96%B0%E7%BB%93%E5%90%88.html</loc>
+                <lastmod>2020-09-08T14:30:00+08:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url><url>
+                <loc>/javascript/nodejs/2019/03/23/welcome-to-jekyll.html</loc>
+                <lastmod>2019-03-23T23:33:36+08:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url></urlset>

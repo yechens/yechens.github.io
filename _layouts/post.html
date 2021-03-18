@@ -37,6 +37,10 @@ layout: default
       powered by Disqus.</a></noscript>
   {%- endif -%}
 
+  {% if site.intensedebate_comments %}
+    {% include intensedebate-comments.html %}
+  {% endif %}
+
   <span id="busuanzi_container_page_pv"> | 访问量：<span id="busuanzi_value_page_pv"></span> 次</span>
 </div>
 

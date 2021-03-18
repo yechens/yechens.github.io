@@ -11,7 +11,13 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
+
+intensedebate_comments: true # 0318 添加文章评论
+
 plainwhite:
+  #disqus_shortname: games # (国内被墙)
+  
+
   name: Yechen Xu（徐叶琛）
   tagline: Master of CS Student in ZJU
   date_format: "%b %-d, %Y"
@@ -26,9 +32,11 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
+    #twitter: samarsault
     github:  yechens
-    linkedIn: in/samarsault
+    email: 708876062@qq.com
+    #dribbble: https://www.zhihu.com/people/giant_panda
+    #linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
@@ -39,7 +47,6 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    email: 708876062@qq.com
 
     # Mastodon instances
     # mastodon:

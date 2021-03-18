@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "机器学习该怎么入门？",
+      "title-lower"    : "机器学习该怎么入门？",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "机器学习",
+      "tags"     : "",
+      "url"      : "/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2021/03/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%A5%E6%80%8E%E4%B9%88%E5%85%A5%E9%97%A8.html",
+      "date"     : "2021-03-15 11:30:00 +0800",
+      "content"     : "原文链接：https://www.zhihu.com/question/20691338/answer/1780474337第一次写长文回答，在从事机器学习研究两年之际，分享一下我的看法。绝对干货哈！本文的宗旨是：1、指出一些自学误区 2、推荐近年精品资料 3、分享切实可行的机器学习入门路线 4、给出进阶/深入研究的方法。0. 背景本科时我是一个很贪玩的人，几乎每个周末都不在学校待着，掺和在..."
+    } ,
+  
+    {
       "title"    : "Soft-Masked BERT：文本纠错与BERT的最新结合",
       "title-lower"    : "soft-masked bert：文本纠错与bert的最新结合",
       "sub-titile" : "",
@@ -10,18 +22,6 @@
       "url"      : "/bert/%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99/2020/09/08/Soft-Masked-BERT-%E6%96%87%E6%9C%AC%E7%BA%A0%E9%94%99%E4%B8%8EBERT%E7%9A%84%E6%9C%80%E6%96%B0%E7%BB%93%E5%90%88.html",
       "date"     : "2020-09-08 14:30:00 +0800",
       "content"     : "文本纠错，是自然语言处理领域检测一段文字是否存在错别字、以及将错别字纠正过来的技术，一般用于文本预处理阶段，同时能显著缓解智能客服等场景下语音识别（ASR）不准确的问题。本文将通过以下几个章节简要介绍文本纠错相关知识。1. 文本纠错示例与难点2. 文本纠错常用技术3. 如何将 BERT 应用于文本纠错4. 文本纠错最优模型：Soft-Masked BERT（2020-ACL）5. 立马上手的..."
-    } ,
-  
-    {
-      "title"    : "Integrating razorpay into your webapp",
-      "title-lower"    : "integrating razorpay into your webapp",
-      "sub-titile" : "",
-      "sub-titile-lower" : "",
-      "categories" : "JavascriptNodeJS",
-      "tags"     : "",
-      "url"      : "/javascript/nodejs/2019/03/23/welcome-to-jekyll.html",
-      "date"     : "2019-03-23 23:33:36 +0800",
-      "content"     : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ..."
     } 
   
 ]
